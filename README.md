@@ -1,2 +1,0 @@
-# bootstrap
- projeto com bootstrap
